@@ -76,10 +76,6 @@ Then configure the `destructuring-merge` rule under the rules section.
 }
 ```
 
-## License
-
-This project is licensed under the ISC License. See the [LICENSE](LICENSE) file for details.
-
 ## Contributing
 
 Contributions are welcome! If you find any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request on the [GitHub repository](https://github.com/steve02081504/eslint-plugin-destructuring-merge).
